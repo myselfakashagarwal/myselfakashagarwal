@@ -59,6 +59,11 @@ I am a student pursuing Bachelor of Computer Applications with specilization in 
 <hr>
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/myselfakashagarwal/count.svg" />
+</p>
+<hr>
 
 
 
