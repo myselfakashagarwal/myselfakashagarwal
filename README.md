@@ -1,17 +1,49 @@
-<h1 align="center">Hi 👋, I'm Akash Agarwal</h1>
-<h3 align="center">A passionate programmer</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/myselfakashagarwal](https://github.com/myselfakashagarwal)
-
-- 📝 I regularly write articles on [Java](Java)
-
-- 💬 Ask me about **THREE.js Java WEB**
-
-- 📫 How to reach me **myselfakashagarwal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi, myself Akash Agarwal ;Nice to meet ya 😁 ;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<h3> About </h3>
+
+I am a student pursuing Bachelor of Computer Applications with specilization in Augmented reality and Virtual reality from Chandigrah University, India. I love to explore and learn new technologies of backend at the same time sharing my knowledge to others. I love making projects after I complete a concept because the best way to learn to code is to do it. 
+
+<h3> Language and Tools </h3>
+
+<p align="center">
+  <img width="50px"  src="https://img.icons8.com/plasticine/512/github-squared.png"/>
+  <img width="50px"  src="https://img.icons8.com/color/512/git.png"/>
+  <img width="50px"  src="https://img.icons8.com/color/512/linux.png"/>
+  <img width="50px"  src="https://img.icons8.com/plasticine/512/bash.png"/>
+  <img width="45px"  src="https://external-content.duckduckgo.com/ip3/threejs.org.ico"/>
+  <img width="45px"  src="https://img.icons8.com/fluency/512/java-coffee-cup-logo.png"/>
+  <img width="45px"  src="https://img.icons8.com/color/512/c-programming.png"/>
+  <img width="45px"  src="https://img.icons8.com/color/512/html-5.png"/>
+  <img width="45px"  src="https://img.icons8.com/fluency/512/css3.png"/>
+  <img width="45px"  src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-java-script-web-development-flaticons-flat-flat-icons.png"/>
+</p>
+
+<h3> Feel free to connect <h3>
+  
+<!-->
+
+  <ul  >
+    
+  <a href="mailto:myselfakashagarwal@gmail.com"><img width="32px" src="https://img.icons8.com/doodle/512/gmail.png"/></a>
+
+  <a href="https://twitter.com/DenverCoder1"><img width="32px"  src="https://i.imgur.com/OXZM1L6.png"/></a>
+
+  <a href="https://dev.to/denvercoder1"><img width="32px"  src="https://i.imgur.com/mVm29vK.png"></a>
+
+  <a href="https://ko-fi.com/jlawrence"><img width="32px"  src="https://i.imgur.com/PpLeD3K.png"/></a>
+
+  
+</ul>
+  <!-->
+
+
+
+
+
+
