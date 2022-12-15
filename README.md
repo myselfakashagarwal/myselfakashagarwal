@@ -24,23 +24,7 @@ I am a student pursuing Bachelor of Computer Applications with specilization in 
   <img width="45px"  src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-java-script-web-development-flaticons-flat-flat-icons.png"/>
 </p>
 
-<h3> Feel free to connect <h3>
-  
-<!-->
 
-  <ul  >
-    
-  <a href="mailto:myselfakashagarwal@gmail.com"><img width="32px" src="https://img.icons8.com/doodle/512/gmail.png"/></a>
-
-  <a href="https://twitter.com/DenverCoder1"><img width="32px"  src="https://i.imgur.com/OXZM1L6.png"/></a>
-
-  <a href="https://dev.to/denvercoder1"><img width="32px"  src="https://i.imgur.com/mVm29vK.png"></a>
-
-  <a href="https://ko-fi.com/jlawrence"><img width="32px"  src="https://i.imgur.com/PpLeD3K.png"/></a>
-
-  
-</ul>
-  <!-->
 
 
 
